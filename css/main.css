@@ -1,0 +1,15 @@
+form label{
+    display: block;
+    width: 100%;
+}
+form{
+    max-width: 400px;
+    margin: 0 auto;
+}
+form select{
+    width: 100%;
+    margin: 10px 0;
+}
+h1{
+    text-align: center;
+}
